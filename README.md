@@ -1,3 +1,16 @@
+# AnHistoricTimeline
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fe2511f8-5113-419a-b696-409c010521eb/deploy-status)](https://app.netlify.com/sites/quizzical-liskov-92434a/deploys)
+
+> https://quizzical-liskov-92434a.netlify.app/
+
+![Screenshot](images/screen_timeline.jpg)
+
+
+## Netlify
+
+If Netlify is treating warnings as errors, use `CI= npm run build`.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -16,15 +16,15 @@ function App() {
           className="vertical-timeline-element"
           contentStyle={{ background: 'white', color: 'black' }}
           contentArrowStyle={{ borderRight: '7px solid  white' }}
-          date="2011 - present"
+          date="3100 BC"
           iconStyle={{ background: '#282c34', color: '#fff' }}
         >
-        <h3 className="vertical-timeline-element-title">Creative Director</h3>
-          <h4 className="vertical-timeline-element-subtitle">Miami, FL</h4>
+        <h3 className="vertical-timeline-element-title">Ancient Egypt</h3>
+          <h4 className="vertical-timeline-element-subtitle">3100 BC</h4>
           <p>
-            Creative Direction, User Experience, Visual Design, Project Management, Team Leading
+          Ancient Egyptian civilization followed prehistoric Egypt and coalesced around 3100 BC (according to conventional Egyptian chronology) with the political unification of Upper and Lower Egypt under Menes (often identified with Narmer).[2] The history of ancient Egypt occurred as a series of stable kingdoms, separated by periods of relative instability known as Intermediate Periods: the Old Kingdom of the Early Bronze Age, the Middle Kingdom of the Middle Bronze Age and the New Kingdom of the Late Bronze Age.
           </p>
-          <img class="img-historic" src="https://www.billingschamber.com/media/Entrance-of-Luxor-Temple-Egypt-iStock-175526084.jpg" ></img>
+          <img class="img-historic" src="https://www.history.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTYzOTQ2MTc0Njc4NzcxNTM3/egypt-gettyimages-1085205362.jpg" ></img>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element"
